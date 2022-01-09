@@ -18,11 +18,11 @@ converts the data entered by the user in json format and posts it to the DB.
 
 ## Screenshots
 
-![Alt text](/snapshots/form_1.png?raw=true "")
+![Alt text](/snapshots/form_1.PNG?raw=true "")
 
-![Alt text](/snapshots/form_2.png?raw=true "")
+![Alt text](/snapshots/form_2.PNG?raw=true "")
 
-![Alt text](/snapshots/form_3.png?raw=true "")
+![Alt text](/snapshots/form_3.PNG?raw=true "")
 
 
 ## Features
