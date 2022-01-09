@@ -1,4 +1,3 @@
-
 # Form Using React JS
 
 This is a submit form created using React js, HTML and CSS. This form takes name, email and mobile data from the user and sends the data to a database using an API.
@@ -19,11 +18,11 @@ converts the data entered by the user in json format and posts it to the DB.
 
 ## Screenshots
 
-![Alt text](/snapshots/form_1.jpg?raw=true "")
+![Alt text](/snapshots/form_1.png?raw=true "")
 
-![Alt text](/snapshots/form_2.jpg?raw=true "")
+![Alt text](/snapshots/form_2.png?raw=true "")
 
-![Alt text](/snapshots/form_3.jpg?raw=true "")
+![Alt text](/snapshots/form_3.png?raw=true "")
 
 
 ## Features
